@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "task_id": 18882,
+      "task_title": "Explore the world of management",
+      "task_description": "As a project manager you play an important role in leading a project through initiation, planning, execution and completion.",
+      "assets": [
+        {
+          "asset_id": 18883,
+          "asset_title": "Technical Project Management",
+          "asset_description": "Story of Alignment Scope of Agility Specific Approach",
+          "asset_content": "https://www.youtube.com/embed/jI1MWrli3X8",
+          "asset_content_type": "video"
+        },
+        {
+          "asset_id": 18884,
+          "asset_title": "Threadbuild Guide",
+          "asset_description": "How to create threads while watching",
+          "asset_content": "This is a sample article content that demonstrates rendering articles inside the asset container. Replace with real content when available.",
+          "asset_content_type": "article"
+        },
+        {
+          "asset_id": 18885,
+          "asset_title": "Structure your Pointers",
+          "asset_description": "Write a 300-400 word article from your thread.",
+          "asset_content": "Placeholder content for structure pointers.",
+          "asset_content_type": "article"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --dt-blue: #2563eb;
+  --dt-black: #000000;
+}
+
+body { font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+
+.card-title {
+  background: #000;
+  color: #fff;
+  padding: 0.6rem 1rem;
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
+  font-weight:600;
+}
+.card {
+  border-radius:0.75rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+.notice-pill {
+  transform: rotate(-90deg);
+  transform-origin: right top;
+  background: #000;
+  color: #fff;
+  padding: 0.6rem 1rem;
+  border-radius: 999px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+.journey-collapsed {
+  width:64px;
+}
+.journey-expanded {
+  width:392px;
+}
