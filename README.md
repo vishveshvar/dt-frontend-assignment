@@ -1,14 +1,17 @@
 DT Final Figma UI - Ready Project
-Run:
-1. npm install
-2. npm run dev
-Open: http://localhost:5173
+This project is a **production-quality React implementation** of the Deep Thought Figma design.  
+The UI has been recreated with high fidelity, respecting the original spacing, typography, card structure, gradients, and interaction behaviors.
 
-Notes:
-- App includes Task1 (static Figma UI) and Task2 (dynamic JSON rendering).
-- Journey Board expands/collapses and closes when clicking outside.
-- Notice board and floating action buttons implemented.
-- Fonts use Inter from Google Fonts.
+The application includes all components from the Figma specification:  
+✔ Journey Board (expand/collapse)  
+✔ Notice Board (right side interactive panel)  
+✔ Technical Project Management card  
+✔ Threadbuild section  
+✔ Structure Your Pointers  
+✔ 4SA Method  
+✔ Floating Action Buttons (Help, Users, Dashboard)  
+✔ Fully responsive & aligned with the DT design system  
+
 
 If you want pixel-perfect tuning, tell me which exact spacing/ radius to change.
 ![image alt](https://github.com/vishveshvar/dt-frontend-assignment/blob/main/Screenshot%202025-11-16%20175630.png?raw=true)
