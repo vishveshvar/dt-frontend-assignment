@@ -11,3 +11,4 @@ Notes:
 - Fonts use Inter from Google Fonts.
 
 If you want pixel-perfect tuning, tell me which exact spacing/ radius to change.
+![image alt](https://github.com/vishveshvar/dt-frontend-assignment/blob/main/Screenshot%202025-11-16%20175630.png?raw=true)
